@@ -1,5 +1,12 @@
-node_modules/
+# IntelliJ
+.idea/
+*.iml
+
+# Java output
+out/
+target/
+build/
+
+# OS stuff
 .DS_Store
-.env
-*.log.DS_Store
-.DS_Store
+Thumbs.db
