@@ -2,7 +2,7 @@ package java8;
 //abcdcba
 public class Pallindrome {
     public static void main(String[] args) {
-    String str = null;
+    String str = "guriug";
     boolean ans = palindrome(str);
         System.out.println(ans);
     }
